@@ -18,7 +18,7 @@ Apply Feature Generation/Feautre Selection Techniques on the data set
 Apply EDA/Data Visualization techniques to all the features of the data set
 
 # PROGRAM :
-
+```
 DEVELOPED BY : THANIKA SREE B
 REGISTER NUMBER : 212222100055
 import pandas as pd
@@ -40,29 +40,29 @@ plt.xlabel('Date')
 plt.xticks(rotation=45)
 plt.grid(True)
 plt.show()
-# a histogram of AQI values :
+#a histogram of AQI values :
 import seaborn as sns
 plt.figure(figsize=(8, 6))
 sns.histplot(data=df, bins=30, kde=True)
 plt.ylabel('Frequency')
 plt.show()
-# a bar plot of AQI by location
+#bar plot of AQI by location
 plt.figure(figsize=(10, 6))
 sns.barplot(data=df)
 plt.xticks(rotation=45)
 plt.show()
-#  a line plot of AQI over time
+#a line plot of AQI over time
 df['Date'] = pd.to_datetime(df['Date'])
 plt.figure(figsize=(10, 6))
 sns.lineplot(data=df)
 plt.xticks(rotation=45)
 plt.show()
-# a scatter plot of AQI by temperature
+#a scatter plot of AQI by temperature
 plt.figure(figsize=(8, 6))
 sns.scatterplot(data=df)
 plt.title(' Temperature')
 plt.show()
-
+```
 # OUTPUT :
 
 ![ds 1](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/1d6b3100-fc5d-4a0e-967c-30eb81c41464)
