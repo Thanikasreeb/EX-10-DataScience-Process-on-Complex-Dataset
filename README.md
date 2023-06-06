@@ -60,23 +60,23 @@ plt.show()
 #a scatter plot of AQI by temperature
 plt.figure(figsize=(8, 6))
 sns.scatterplot(data=df)
-plt.title(' Temperature')
+title(' Temperature')
 plt.show()
 ```
 # OUTPUT :
 
-![ds 1](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/1d6b3100-fc5d-4a0e-967c-30eb81c41464)
-![ds 2](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/450cc8d4-fd31-4201-897d-c401767e81c7)
-![ds 3](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/aa09b30e-532b-47c9-9799-30713c88bee6)
-![ds 4 1](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/c02c276f-cb77-4b72-8a8e-138ba830b83b)
-![ds 5](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/4e8f9742-707c-4fcc-bd73-dfcbef4212ff)
-![ds 6](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/d137575d-6bc6-48a0-abb0-835ac664dfb2)
-![ds 7](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/0e0647d1-7a21-4054-8148-d277e6ba4a70)
-![ds 8](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/26c9353f-9627-4706-9baf-b9b3457a53f2)
-![ds 9](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/d75d387c-0291-406c-a2a5-8ee39e45bce8)
+![ds 1](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/d4285879-f201-42f6-8245-37d1df128876)
+![ds 2](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/f16e4e9c-ad29-4d32-8bd5-10c5bbb6785f)
+![ds 3](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/a8338e4c-3cec-4ede-ac77-7d87b787018d)
+![ds 4](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/b100013b-e858-47fc-b2f0-33be37ea14bb)
+![ds 5](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/2c26fc0d-6009-4cfe-bd1f-6546f1de84b8)
+![ds 6](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/eea0fd8f-d4be-457a-8b00-49508e282a36)
+![ds 7](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/5621613a-d2a8-4f56-9075-55b66f4b14a0)
+![ds 8](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/ea1dd07c-e54e-439b-bf0a-d66f78bef4a5)
+![ds 9](https://github.com/Thanikasreeb/EX-10-DataScience-Process-on-Complex-Dataset/assets/119557910/24cd10f3-f949-4b27-a5a8-76266f904e2e)
 
 # RESULT :
- Thus , WE have read the given data and performed Data Science Process on complex dataset .
+ Thus , We have read the given data and performed Data Science Process on complex dataset .
 
 
 
